@@ -1,0 +1,9 @@
+name: Voila_notebook
+channels:
+- conda-forge
+dependencies:
+- matplotlib-base
+- pandas
+- ipywidgets
+- jupyterlab
+- voila
