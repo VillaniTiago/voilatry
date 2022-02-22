@@ -2,7 +2,7 @@ name: Voila_notebook
 channels:
 - conda-forge
 dependencies:
-- matplotlib-base
+- matplotlib
 - pandas
 - ipywidgets
 - jupyterlab
