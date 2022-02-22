@@ -3,3 +3,4 @@ pandas==1.2.4
 numpy==1.20.1
 ipywidgets==7.6.3
 voila==0.2.16
+ipympl
